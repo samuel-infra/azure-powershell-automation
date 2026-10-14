@@ -1,7 +1,9 @@
 # Azure Infrastructure Automation with PowerShell
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-Automation-0078D4?logo=microsoftazure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-Az%20Module-5391FE?logo=powershell&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
+</p>
+
 
 > **Hands-on infrastructure automation:** provisioning and validating an Azure network, security rules, Windows Server VM and storage account through PowerShell.
 
