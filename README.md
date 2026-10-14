@@ -72,6 +72,13 @@ PowerShell validation (Succeeded)
 - Changed the deployment to `Standard_B2als_v2` and completed provisioning.
 - Used PowerShell to check deployed resources and confirm **Succeeded** provisioning states.
 
+
+## Lab Screenshots
+
+**PowerShell automation script**
+
+![PowerShell automation script](screenshots/script-report-page-121.png)
+
 ## Script
 
 The completed original script was saved as **`Sweditech-Automation.ps1`** and packaged in **`Sweditech-Automation.zip`** for the assignment.
