@@ -1,7 +1,7 @@
 # Azure Infrastructure Automation with PowerShell
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure logo" height="72">
 </p>
 
 
